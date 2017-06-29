@@ -7,7 +7,7 @@ I use "code face" face detection tool provided by cascaded CNN [2] to detect the
 The file "AFLW_image_list.txt" shows the list of corresponding images.
 
 Please cite our paper in your publications if it helps your research:
-
+```
 @inproceedings{shao2016face,
   title={Face alignment by deep convolutional network with adaptive learning rate},
   author={Shao, Zhiwen and Ding, Shouhong and Zhu, Hengliang and Wang, Chengjie and Ma, Lizhuang},
@@ -16,7 +16,7 @@ Please cite our paper in your publications if it helps your research:
   year={2016},
   organization={IEEE}
 }
-
+```
 Should you have any questions, don't hesitate to contact me via shaozhiwen@sjtu.edu.cn.
 
 References:
