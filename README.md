@@ -1,5 +1,3 @@
-# AFLW_bbox_annotation
-
 In order to evaluate face alignment on five facial landmarks: left eye center, right eye center, nose tip, left mouth corner and right mouth corner, I use 2995 images of AFLW dataset for testing as same as TCDCN [1]. Although TCDCN publishes the 2995 images, face bounding boxes are not provided.
 
 I use "code face" face detection tool provided by cascaded CNN [2] to detect the faces. There are maybe some faces fail to be detected or more than one face is detected for one image, and I process these cases.
